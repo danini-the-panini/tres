@@ -1,6 +1,6 @@
 # tres
 
-TODO: Write a description here
+A 3D Graphics Library for Crystal.
 
 ## Installation
 
@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   tres:
-    github: [your-github-name]/tres
+    github: jellymann/tres
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[your-github-name]/tres/fork )
+1. Fork it ( https://github.com/jellymann/tres/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Daniel Smith - creator, maintainer
+- [jellymann](https://github.com/jellymann) Daniel Smith - creator, maintainer
