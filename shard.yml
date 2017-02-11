@@ -6,4 +6,13 @@ authors:
 
 crystal: 0.20.5
 
+dependencies:
+  lib_gl:
+    github: jellymann/crystal_lib_gl
+    branch: master
+
+  glfw:
+    github: jellymann/crystal_glfw
+    branch: master
+
 license: MIT
