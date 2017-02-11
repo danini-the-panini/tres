@@ -1,0 +1,9 @@
+name: tres
+version: 0.1.0
+
+authors:
+  - Daniel Smith <jellymann@gmail.com>
+
+crystal: 0.20.5
+
+license: MIT
