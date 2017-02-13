@@ -9,10 +9,15 @@ crystal: 0.20.5
 dependencies:
   lib_gl:
     github: jellymann/crystal_lib_gl
-    branch: master
+    version: ~> 0.1.0
 
   glfw:
     github: jellymann/crystal_glfw
-    branch: master
+    version: ~> 0.1.1
+
+development_dependencies:
+  minitest:
+    github: ysbaddaden/minitest.cr
+    version: ~> 0.3.5
 
 license: MIT
